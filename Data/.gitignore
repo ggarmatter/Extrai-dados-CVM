@@ -3,3 +3,4 @@
 # Except this file
 !.gitignore
 !processados/
+!empresas_listadas_b3.csv
