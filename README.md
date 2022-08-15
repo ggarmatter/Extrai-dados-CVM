@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/8007174/184670381-a13396f8-56da-450e-8078-6bd42beba61c.png)
 
 
-## Próximos passos
+# Próximos passos
 * Pegar dados do fluxo de caixa para incrementar o relatório do extrai-dados-cvm com EBITDA e Capex
 * Adicionar funcionalidades no filtro de ações e fazer backtest da estratégia
 * Otimização e interface de usuário
